@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\HP\Documents\Visual Studio 2019\Projects\Параллельные вычисления\Lab4\Lab3\Source.cpp(153,66): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\Documents\Visual Studio 2019\Projects\Параллельные вычисления\Lab4\Lab3\Source.cpp(154,72): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\Documents\Visual Studio 2019\Projects\Параллельные вычисления\Lab4\Lab3\Source.cpp(155,71): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Lab3.vcxproj -> C:\Users\HP\Documents\Visual Studio 2019\Projects\Параллельные вычисления\Lab4\x64\Debug\Lab4.exe
